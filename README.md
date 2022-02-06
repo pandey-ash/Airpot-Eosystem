@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# aed_final_proejct
-=======
 # Airpot-Eosystem
->>>>>>> e0e5c56a99a425191918c21227450e3d53d71c24
+The airport ecosystem is a one-stop shop for planning and managing plane trips. It helps with ticket booking, E-ticket downloads, and mail-in tickets. It also oversees the operation of the entire airport as well as the terminals that serve it. It gives you the option of ordering meals to regulate your hunger.
